@@ -6,19 +6,23 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 release.properties
 
+# Gradle
+.gradle/
+build/
+
 # Java
 *.class
 *.jar
 *.war
 *.ear
 
-# IDE - IntelliJ IDEA
+# IntelliJ IDEA
 .idea/
 *.iml
 *.ipr
 *.iws
 
-# IDE - Visual Studio Code
+# Visual Studio Code
 .vscode/
 .settings/
 .project
