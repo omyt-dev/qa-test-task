@@ -1,0 +1,4 @@
+services:
+  tests:
+    build: .
+    shm_size: 2gb
